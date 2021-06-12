@@ -8,7 +8,20 @@
 .card{
     text-align: center;
     margin-top: 50px;
+    height: 400px;
+    margin-left: 20px;
 }
 form #date{
     margin-top: 10px;
+    font-size: 20px;
+}
+form #male{
+    margin-top: 20px;
+    font-size: 20px;
+}
+form #female{
+    margin-top: 20px;
+}
+form button{
+    margin-top: 20px;
 }
