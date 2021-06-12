@@ -25,6 +25,9 @@ form #male{
 form #female{
     margin-top: 30px;
 }
+form p{
+    margin-top: 20px;
+}
 form button{
     margin-top: 20px;
 }
