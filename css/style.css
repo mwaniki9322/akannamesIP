@@ -5,6 +5,9 @@
 .navbar{
     
 }
+.nav-brand h4{
+color: white;
+}
 .card{
     width: 25rem;
     text-align: center;
