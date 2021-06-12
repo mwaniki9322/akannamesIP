@@ -5,3 +5,10 @@
 .navbar{
     background-color: #f7fd04;
 }
+.card{
+    text-align: center;
+    margin-top: 50px;
+}
+form #date{
+    margin-top: 10px;
+}
