@@ -12,11 +12,11 @@ This is a web application that takes a user's birthday and calculates the day of
 * Form submit
 
 ## Setup Process
-To run the portfolio on your server use the following steps.
+To run the web application on your server use the following steps.
 
-*  `git clone <your repo name>`
-*  `cd <repo name>`
-*  `code .`
+*  git clone https://github.com/mwaniki9322/akannamesIP.git
+*  cd akannamesIP.git
+*  code .
 
 ## Technologies Used
 * HTML
@@ -25,11 +25,28 @@ To run the portfolio on your server use the following steps.
 * Bootstrap
 
 ## Behaviour Driven Development(BDD)
-*
+### 1. Displays Form To Enter Date and Gender
+* INPUT: Users date of birth
+* INPUT: Users gender
+* OUTPUT: Displays users Akan name based on users input.
+
+### 2. Displays An Error Message If Date Of Birth Is Not Filled
+* INPUT: ""
+* OUTPUT:"Error Message". 
+
+
+### 3. Displays An Error Message If Gender Is Not Selected 
+* INPUT: ""
+* OUTPUT: "Error Message".
+
+### 4 Clears Form and Reset the Message on Click
+* INPUT: "Click Reset Button"
+* OUTPUT: "Clears and Resets the Form"
 
 ### Known bugs
 * No bags reported.Raise a bug fix [here](https://mwaniki9322.github.io/portfolioIP/)
 
-
+## Contact
+* If you wish to reach out incase of any issue
 ### LICENSE
-https://raw.githubusercontent.com/mwaniki9322/portfolioIP/gh-pages/LICENSE
+https://github.com/mwaniki9322/akannamesIP/blob/main/LICENSE
