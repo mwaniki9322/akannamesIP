@@ -18,5 +18,9 @@ function result(){
     //get day of the week
     var weekday=date.getDay();
 
+    //declare genders
+    var female=document.getElementById('female');
+    var male=document.getElementById('male')
+
 
 }
