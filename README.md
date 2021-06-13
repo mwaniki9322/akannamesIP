@@ -1,7 +1,7 @@
 # AKAN NAME GENERATOR
 
 #### Created by 
-[DENNIS MWANIKI](https://mwaniki9322.github.io/portfolioIP/)
+[DENNIS MWANIKI]()
 
 ## Description
 This is a web application that takes a user's birthday and calculates the day of the week they were born and depending on the result,it generates their Ghanaian Akan Name.In Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born.
@@ -44,9 +44,10 @@ To run the web application on your server use the following steps.
 * OUTPUT: "Clears and Resets the Form"
 
 ### Known bugs
-* No bags reported.Raise a bug fix [here](https://mwaniki9322.github.io/portfolioIP/)
+* No bags reported.Raise a bug fix [here](https://github.com/mwaniki9322/akannamesIP.git)
 
 ## Contact
-* If you wish to reach out incase of any issue
+* If you wish to reach out incase of any issue you can pull request
+
 ### LICENSE
 https://github.com/mwaniki9322/akannamesIP/blob/main/LICENSE
