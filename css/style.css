@@ -2,8 +2,8 @@
 
 }
 
-.navbar{
-    
+#row-1{
+    text-align: center;
 }
 .nav-brand h4{
 color: white;
@@ -50,5 +50,5 @@ button:hover{
 }
 #col-2{
 
-    margin-left:px;
+    margin: right 20px;
 }
