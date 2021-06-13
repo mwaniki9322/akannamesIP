@@ -20,7 +20,14 @@ function result(){
 
     //declare genders
     var female=document.getElementById('female');
-    var male=document.getElementById('male')
+    var male=document.getElementById('male');
+
+    if(male.checked===true){
+        alert("You were born on " +daysOfWeek[weekday] +" and your Akan Name is " + maleNames[weekday]);
+    }
+    if(female.checked===true){
+        alert("You were born on " + daysOfWeek[weekday]+ "and your Akan name is " + femaleNames[weekday]);
+    }
 
 
 }
