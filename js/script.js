@@ -11,6 +11,11 @@ var daysOfWeek = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Frida
 
 function result(){
     var dateofbirthinput=document.getElementById('datepicker').value;
+     
+    //declare genders
+    var female=document.getElementById('female');
+    var male=document.getElementById('male');
+
 
     //input set to current date
     var date=new Date(dateofbirthinput);
@@ -18,15 +23,13 @@ function result(){
     //get day of the week
     var weekday=date.getDay();
 
-    //declare genders
-    var female=document.getElementById('female');
-    var male=document.getElementById('male');
+  
 
     if(male.checked===true){
         alert("You were born on " +daysOfWeek[weekday] +" and your Akan Name is " + maleNames[weekday]);
     }
     if(female.checked===true){
-        alert("You were born on " + daysOfWeek[weekday]+ "and your Akan name is " + femaleNames[weekday]);
+        alert("You were born on " + daysOfWeek[weekday]+ " and your Akan name is " + femaleNames[weekday]);
     }
 
 
