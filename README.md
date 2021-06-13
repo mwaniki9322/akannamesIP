@@ -24,7 +24,8 @@ To run the portfolio on your server use the following steps.
 * Javascript
 * Bootstrap
 
-
+## Behaviour Driven Development(BDD)
+*
 
 ### Known bugs
 * No bags reported.Raise a bug fix [here](https://mwaniki9322.github.io/portfolioIP/)
